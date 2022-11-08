@@ -1,0 +1,36 @@
+html {
+    background-color: rgb(77, 146, 215);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+span {
+    background-color: rgb(70, 68, 68);
+    color: white;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-top: 100px;
+    display: inline-block;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    }
+        figure {
+        float: right;
+        width: 10%;
+        text-align: center;
+        font-style: italic;
+        font-size: smaller;
+        text-indent: 0;
+        border: thin silver solid;
+        margin: 0.5em;
+        padding: 0.5em;
+      }
+      img.scaled {
+        width: 100%;
+      }
+
+      
+
+     
